@@ -1,0 +1,6 @@
+framework module Pods_Stripe_Subscription_Payment {
+  umbrella header "Pods-Stripe Subscription Payment-umbrella.h"
+
+  export *
+  module * { export * }
+}
