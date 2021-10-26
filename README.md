@@ -2,9 +2,9 @@
 Stripe Integration of the SwiftUI SDK for subscription payment. 
 
 ## 📱Screenshots
-♥️ | ♥️
+1 | 2
 ------------ | -------------
-<img src="https://raw.githubusercontent.com/worstkiller/ios_stripe_subscription_swiftui/main/screenshots/s1.png" height="889" width="500">|<img src="https://raw.githubusercontent.com/worstkiller/ios_stripe_subscription_swiftui/main/screenshots/s2.jpg" height="889" width="500">
+<img src="https://raw.githubusercontent.com/worstkiller/ios_stripe_subscription_swiftui/main/screenshots/s1.png" height="589" width="330">|<img src="https://raw.githubusercontent.com/worstkiller/ios_stripe_subscription_swiftui/main/screenshots/s2.jpg" height="589" width="330">
 
 ## 🖥️ Technologies/libraries/Frameworks
 - [Stripe](ipe.com/docs/payments/accept-a-payment?platform=ios)
